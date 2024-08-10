@@ -10,7 +10,7 @@ import xml.etree.ElementTree as ET
 
 ### 2. 指定文件夹路径
 ```python
-folder_path = r"C:\Users\zheng\Downloads\Compressed\c69ef1f3-745f-4a5b-84dd-a76f54645f1b\notasfiscais\emitidas"
+folder_path = r"C:\xxxx\"
 ```
 - `folder_path` 变量保存了要处理的XML文件所在的文件夹路径。路径使用了原始字符串（以 `r` 开头）来避免处理转义字符。
 
